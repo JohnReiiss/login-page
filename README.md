@@ -1,4 +1,4 @@
-# 🧑‍🚀 Tela de Login Responsiva com Astronauta
+# 🧑‍🚀 Tela de Login Responsiva com imagem SVG
 
 Uma interface de login moderna e responsiva, com layout dividido e visual atrativo. Ideal para páginas de autenticação em sistemas web. Conta com uma ilustração temática (astronauta) e foco em experiência visual e usabilidade.
 
