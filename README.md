@@ -56,7 +56,7 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para utilizar, mo
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/solo-leveling-gallery.git
+git clone https://github.com/JohnReiiss/login-page.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador preferido
