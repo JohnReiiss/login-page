@@ -1,0 +1,78 @@
+# 🧑‍🚀 Tela de Login Responsiva com Astronauta
+
+Uma interface de login moderna e responsiva, com layout dividido e visual atrativo. Ideal para páginas de autenticação em sistemas web. Conta com uma ilustração temática (astronauta) e foco em experiência visual e usabilidade.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+## ✨ Funcionalidades
+
+✅ Layout dividido entre imagem ilustrativa e formulário  
+✅ Design 100% responsivo, com adaptação para mobile  
+✅ Campos de login com foco e acessibilidade  
+✅ Botão de login estilizado com efeitos de sombra  
+✅ Compatível com SVG e imagens vetoriais animadas  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica da interface
+- **CSS3**: Flexbox, media queries, sombras e animações
+- **Google Fonts**: Noto Sans
+- **Ilustração SVG**: Astronauta para destaque visual
+
+---
+
+## 🎨 Design
+
+- 🌌 **Tema escuro moderno**: Fundo roxo/azulado com contraste claro
+- 🧩 **Layout flexível**: Tela dividida entre conteúdo e imagem
+- 📱 **Responsivo**: Layout adaptado para telas menores com ocultação de elementos não essenciais
+
+---
+
+## 🌟 Destaques
+
+- 🔹 Interface leve e elegante
+- 🔹 Visual moderno com cores vibrantes
+- 🔹 Sem dependências externas de JavaScript
+- 🔹 Perfeito como tela de entrada para projetos de front-end
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Sinta-se à vontade para utilizar, modificar e compartilhar.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/solo-leveling-gallery.git
+```
+
+2. Abra o arquivo `index.html` no seu navegador preferido
+
+3. Ou acesse online: [Link para Deploy](#) *(https://johnreiiss.github.io/animated-login-page/)*
+
+## 📌 Captura de Tela
+![image](https://github.com/user-attachments/assets/4f2fc607-b5ef-46e4-ba02-02e7bcae8cfa)
+
+![image](https://github.com/user-attachments/assets/db4055af-0c3a-4898-8684-6e4fb8aa7f93)
+
+## Contato
+Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
+
+- **E-mail:** johnatan.reiiss@icloud.com
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+
+Obrigado por visitar este repositório! Espero que goste do projeto. 🚀
