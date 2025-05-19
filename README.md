@@ -64,7 +64,7 @@ git clone https://github.com/JohnReiiss/login-page.git
 3. Ou acesse online: [Link para Deploy](#) *(https://johnreiiss.github.io/login-page/)*
 
 ## 📌 Captura de Tela
-![image](![image](https://github.com/user-attachments/assets/dff94319-f889-492b-a308-9cefe507a66e))
+![image](![image](https://github.com/user-attachments/assets/dff94319-f889-492b-a308-9cefe507a66e)
 
 ## ✉️ Contato
 
