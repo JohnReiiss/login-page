@@ -56,12 +56,12 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para utilizar, mo
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/JohnReiiss/login-page.git
+git clone https://github.com/DevSanthiago/login-page.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador preferido
 
-3. Ou acesse online: [Link para Deploy](#) *(https://johnreiiss.github.io/login-page/)*
+3. Ou acesse online: [Link para Deploy](https://devsanthiago-login-page.netlify.app/)
 
 ## 📌 Captura de Tela
 ![image](https://github.com/user-attachments/assets/0e2e95de-f555-4758-928b-83705d826780)
@@ -72,7 +72,7 @@ git clone https://github.com/JohnReiiss/login-page.git
 - **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
 - **LinkedIn:** [linkedin.com/in/johnatan-Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
-- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
+- **GitHub:** [github.com/JohnReiiss](https://github.com/DevSanthiago)  
 
 ---
 
